@@ -1,4 +1,4 @@
-# bundler-custom-source
+# bundler-path2
 
 
 This is a replication of the path source for Bundler in form of a plugin. Still a work in progress. You need to use my fork to work http://github.com/suhastech/bundler
